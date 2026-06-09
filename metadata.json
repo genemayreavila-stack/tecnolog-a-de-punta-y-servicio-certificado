@@ -1,0 +1,6 @@
+{
+  "name": "DeDicada",
+  "description": "Tienda premium de celulares, accesorios y servicio técnico especializado de alta calidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
